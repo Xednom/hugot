@@ -21,5 +21,4 @@ PROJECT HUGOT IS IN THE USER MENU IN LOCAL C:
 
 
 
-Project lead programmer: Richmond B. Lacanlalay(Mundii)
-Judes B. Lopez(Arkanthiel)
+Project lead programmer: Creator => (Mundii), collaborator =>(Arkanthiel)
